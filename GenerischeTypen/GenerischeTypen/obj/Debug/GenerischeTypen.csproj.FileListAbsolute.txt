@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\bin\Debug\GenerischeTypen.exe.config
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\bin\Debug\GenerischeTypen.exe
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\bin\Debug\GenerischeTypen.pdb
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.Form1.resources
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.Properties.Resources.resources
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.exe
+C:\Users\info\source\repos\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.pdb
